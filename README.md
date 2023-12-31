@@ -1,2 +1,2 @@
 # GCT-JOB-PORTAL
-A Job portal platform for connectiong Alumni and Students.
+A Job portal platform for connecting Alumni and Students.
